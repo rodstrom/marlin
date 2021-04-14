@@ -87,7 +87,7 @@
 
 #define MACHINE_SIZE STRINGIFY(X_BED_SIZE) "x" STRINGIFY(Y_BED_SIZE) "x" STRINGIFY(Z_MAX_POS)
 
-#define CORP_WEBSITE_E "github.com/Jyers"
+#define CORP_WEBSITE_E "github.com/rodstrom/marlin"
 
 #define BUILD_NUMBER "1.3.0"
 
